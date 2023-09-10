@@ -11,7 +11,7 @@
 - 🤖 **Machine Learning**: Unlocking the secrets of LLMs, diving into vector databases, and exploring the fascinating world of AI.
 - 🚀 **Startup 101**: Mastering the art of fundraising from VCs and angel investors, orchestrating business operations, and sealing pivotal contracts.
 
-### 📫 **How to Connect with Me**:
+## 📫 **How to Connect with Me**:
 - 🐦 **Twitter**: [@sohambasu963](https://twitter.com/sohambasu963)
 - 💌 **Email**: sohambasu963@gmail.com
 - 🌐 **LinkedIn**: [Soham Basu](https://linkedin.com/in/sohambasu963)
