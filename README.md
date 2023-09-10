@@ -15,7 +15,7 @@
 - 🐦 **Twitter**: [@sohambasu963](https://twitter.com/sohambasu963)
 - 💌 **Email**: sohambasu963@gmail.com
 - 🌐 **LinkedIn**: [Soham Basu](https://linkedin.com/in/sohambasu963)
-- 🎧 **Spotify**: [Check out my playlist!]([https://spotify.com/sohambasu963](https://open.spotify.com/user/sohambasu963))
+- 🎧 **Spotify**: [Check out my playlist!]([https://open.spotify.com/user/sohambasu963])
 
 Feel free to reach out for collaborations, partnerships, or just to say hi! 😄
 
