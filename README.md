@@ -1,29 +1,32 @@
-### Hi there, I'm Soham 👋
+### Hi there, I'm Soham 👋🎵🚀
 
-## I'm obsessed with piano, startups, and leveraging LLMs and fintech APIs to build cool things!
+## 🎹 Obsessed with Piano, 🌟 Startups, and 🤖 Leveraging LLMs & 🏦 Fintech APIs to Craft Revolutionary Experiences!
 
-Currently busy growing startups and building cool dashboards!
+📈 **Currently Hustling:**  
+- 📊 **Finance Portfolio Generator**: Empowering the everyday investor with tailored investment solutions. Dabble in the stock market like a pro! 
+- 🎼 **Finding Pianos on Campus**: In quest of the perfect keys to unleash some soul-stirring jazz and blues improv.  
+- 💪 **Peak Physical Form**: Carving out the best version of myself through rigorous daily workouts and culinary adventures.
 
-I'm currently working on:
-- Finance Portfolio Generator, a tool to help average folks learn about investing and build their own custom portfolios!
-- Finding pianos on campus to play some cool jazz and blues improv!
-- Getting in the best shape of my life by working out daily and adventuring out for some nourishing food!
+📚 **On the Learning Curve**:  
+- 🤖 **Machine Learning**: Unlocking the secrets of LLMs, diving into vector databases, and exploring the fascinating world of AI.
+- 🚀 **Startup 101**: Mastering the art of fundraising from VCs and angel investors, orchestrating business operations, and sealing pivotal contracts.
 
-I'm currently learning about:
-- Machine Learning (specifically how LLMs work, vector databases, all that good stuff!)
-- How Startups work (fundraising from VC's and angel investors, managing the business, securing contracts, etc
+### 📫 **How to Connect with Me**:
+- 🐦 **Twitter**: [@sohambasu963](https://twitter.com/sohambasu963)
+- 💌 **Email**: sohambasu963@gmail.com
+- 🌐 **LinkedIn**: [Soham Basu](https://linkedin.com/in/sohambasu963)
+- 🎧 **Spotify**: [Check out my playlist!]([https://spotify.com/sohambasu963](https://open.spotify.com/user/sohambasu963))
 
-<!--
-**sohambasu963/sohambasu963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach out for collaborations, partnerships, or just to say hi! 😄
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--  
+✨ **sohambasu963/sohambasu963** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.  
+Here are some ideas to kickstart your GitHub journey:  
+- 🔭 I’m always in search of intriguing projects to work on.  
+- 🌱 Never stop learning.  
+- 👯 Open for collaborations that create an impact.  
+- 🤔 Need advice? I'm just a message away.  
+- 💬 Let's talk about fintech, LLMs, startups, or even the best places to find food!  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun Fact: I can play "Flight of the Bumblebee" while coding up a storm!
 -->
