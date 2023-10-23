@@ -1,6 +1,6 @@
 ### Hi there, I'm Soham 👋🎵🚀
 
-## 🎹 Obsessed with Piano, 🌟 Startups, and 🤖 Leveraging LLMs & 🏦 Fintech APIs to Craft Revolutionary Experiences!
+## 🎹 Obsessed with Piano, 🌟 Startups, and 🤖 Leveraging LLMs & 🏦 Fintech APIs!
 
 📈 **Currently Hustling:**  
 - 📊 **Finance Portfolio Generator**: Empowering the everyday investor with tailored investment solutions. Dabble in the stock market like a pro! 
