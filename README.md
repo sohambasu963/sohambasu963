@@ -1,6 +1,6 @@
 ### Hi there, I'm Soham 👋🎵🚀
 
-## Check out [sohambasu.com](https://www.sohambasu.com/)
+Check out [sohambasu.com](https://www.sohambasu.com/)
 <!--  
 ✨ **sohambasu963/sohambasu963** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.  
 Here are some ideas to kickstart your GitHub journey:  
